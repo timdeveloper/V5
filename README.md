@@ -22,3 +22,10 @@ GitHub Help
 Developer API
 GitHub Flavored Markdown
 GitHub Pages
+
+More
+Training
+Students & teachers
+The Shop
+Plans & pricing
+The Octodex
