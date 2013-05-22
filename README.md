@@ -16,3 +16,9 @@ Gauges: Web analytics
 Speaker Deck: Presentations
 Gist: Code snippets
 Job board
+
+Documentation
+GitHub Help
+Developer API
+GitHub Flavored Markdown
+GitHub Pages
