@@ -34,3 +34,14 @@ The Octodex
 Terms of Service
 Privacy
 Security
+
+
+ブログ
+バグを報告
+サポート
+ドキュメント
+API
+フォーラム
+サーバー状況
+利用規約
+プライバシーポリシー
