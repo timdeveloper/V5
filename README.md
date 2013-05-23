@@ -29,3 +29,8 @@ Students & teachers
 The Shop
 Plans & pricing
 The Octodex
+
+
+Terms of Service
+Privacy
+Security
