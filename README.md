@@ -29,6 +29,7 @@ Students & teachers
 The Shop
 Plans & pricing
 The Octodex
+
 ブログ
 バグを報告
 サポート
@@ -38,3 +39,13 @@ API
 サーバー状況
 利用規約
 プライバシーポリシー
+日本語
+
+Git 1.8.2.3
+Mercurial 2.2.2
+Django 1.3.7
+Python 2.7.3
+ce272ccc9558 / 7055bdccca2c @ bitbucket21
+
+Atlassian
+Atlassian提供のその他のgitツール
